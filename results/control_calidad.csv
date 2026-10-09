@@ -1,0 +1,11 @@
+control,valor
+filas_entrada,5000
+columnas_entrada,11
+duplicados_exactos_detectados_y_eliminados,0
+filas_validas_para_la_rebanada,5000
+filas_excluidas_por_categoria_o_compras_previas_invalidas,0
+nulos_en_campos_de_la_rebanada_antes_de_filtrar,0
+CustomerID_unicos_en_archivo,5000
+IDs_de_cliente_repetidos_en_archivo,0
+descuentos_superiores_a_32_por_ciento_en_filas_validas,6
+
